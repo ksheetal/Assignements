@@ -28,7 +28,7 @@ Design a relational database schema to securely store structured log data with m
 - Indexing strategies for efficient searches  
 - Best practices for storing masked sensitive data
 
-[View Assignment 2](https://github.com/ksheetal/Assignements/blob/main/Assignment_Two.md)
+[View Assignment 2](https://github.com/ksheetal/Assignements/blob/main/Assignement_Two.md)
 
 ---
 
