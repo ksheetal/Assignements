@@ -1,4 +1,4 @@
-## Assignment: Design a Log Storage Database with PII Masking and Traceability
+## Assignment 2 : Design a Log Storage Database with PII Masking and Traceability
 
 ### Objective:
 
