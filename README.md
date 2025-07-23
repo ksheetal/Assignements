@@ -14,7 +14,7 @@ Implement structured logging in any backend project of your choice. Ensure all P
 - Masking sensitive data in logs  
 - Adding traceability metadata for debugging and audit
 
-[View Assignment 1](./assignment1/README.md)
+[View Assignment 1](https://github.com/ksheetal/Assignements/blob/main/Assignment_One.md)
 
 ---
 
