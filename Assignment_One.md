@@ -1,5 +1,5 @@
 
-## Assignment: Secure and Structured Logging with Traceability
+## Assignment 1 : Secure and Structured Logging with Traceability
 
 ### Objective:
 
