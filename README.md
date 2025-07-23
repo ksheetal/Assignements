@@ -28,7 +28,7 @@ Design a relational database schema to securely store structured log data with m
 - Indexing strategies for efficient searches  
 - Best practices for storing masked sensitive data
 
-[View Assignment 2](./assignment2/README.md)
+[View Assignment 2](https://github.com/ksheetal/Assignements/blob/main/Assignment_Two.md)
 
 ---
 
@@ -43,7 +43,7 @@ Build a secure login system with authentication and authorization using either o
 - Logging user activities with PII protection  
 - Input validation and security best practices
 
-[View Assignment 3](./assignment3/README.md)
+[View Assignment 3](https://github.com/ksheetal/Assignements/blob/main/Assignment_Three.md)
 
 ---
 
