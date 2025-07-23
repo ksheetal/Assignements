@@ -43,7 +43,7 @@ Build a secure login system with authentication and authorization using either o
 - Logging user activities with PII protection  
 - Input validation and security best practices
 
-[View Assignment 3](https://github.com/ksheetal/Assignements/blob/main/Assignment_Three.md)
+[View Assignment 3](https://github.com/ksheetal/Assignements/blob/main/Assignement_Three.md)
 
 ---
 
