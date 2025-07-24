@@ -49,3 +49,4 @@ Build a secure login system with authentication and authorization using either o
 
 Feel free to explore each assignment folder for detailed instructions and deliverables.
 
+[Template to submit the assignment ](https://github.com/ksheetal/Assignements/blob/main/Template.md)
