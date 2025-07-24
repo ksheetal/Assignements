@@ -102,4 +102,3 @@ npm test
 * Future improvements
 
 ```
-```
